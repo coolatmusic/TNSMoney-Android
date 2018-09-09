@@ -67,67 +67,67 @@
     <string name="invalid_code">अमान्य कोड</string>
     <string name="verifying_code">कोड का सत्यापन हो रहा है</string>
 
-    <string name="rsa_data_encryption_failed">Initial Data Encryption Failed</string>
-    <string name="rsa_data_decryption_failed">Initial Data Decryption Failed</string>
+    <string name="rsa_data_encryption_failed">आरंभिक डेटा एन्क्रिप्शन विफल हो गया है</string>
+    <string name="rsa_data_decryption_failed">आरंभिक डेटा डिक्रिप्शन विफल हो गया है</string>
 
-    <string name="data_encryption_error">Data dncryption failed 2, reinstall app if error persists</string>
-    <string name="data_decryption_error">Data decryption failed 2, reinstall app if error persists</string>
+    <string name="data_encryption_error">डेटा एन्क्रिप्शन 2 विफल हो गया है, अगर त्रुटि बनी रहती है तो ऐप को दोबारा इंस्टॉल करें</string>
+    <string name="data_decryption_error">डेटा डिक्रिप्शन 2 विफल हो गया है, अगर त्रुटि बनी रहती है तो ऐप को दोबारा इंस्टॉल करें</string>
 
-    <string name="security_logout_message">Secure data processing failed, as a security measure you have been logged out, please relogin</string>
+    <string name="security_logout_message">एक सुरक्षा प्रक्रिया के रूप में आपको लॉगआउट कर दिया गया है, सुरक्षित डेटा प्रोसेसिंग विफल हो गई है, कृपया पुनः लॉगिन करें</string>
 
-    <string name="encrypted_data_part_extract_error">Failed to extract encrypted data parts, reinstall app if error persists</string>
-    <string name="data_decryption_failed_error">Data decryption failed, please reinstall app if error persists</string>
+    <string name="encrypted_data_part_extract_error">एन्क्रिप्टेड डेटा भागों को निकालने में विफल रहा, त्रुटि जारी रहने पर ऐप को इंस्टॉल करें</string>
+    <string name="data_decryption_failed_error">डेटा डिक्रिप्शन विफल रहा, अगर त्रुटि बनी रहती है तो कृपया ऐप को पुनर्स्थापित करें</string>
 
-    <string name="facebook_login_failed">Facebook Login Failed</string>
+    <string name="facebook_login_failed">फेसबुक लॉगिन विफल रहा</string>
 
-    <string name="facebook_login_cancelled">Facebook Login Request cancelled</string>
+    <string name="facebook_login_cancelled">फेसबुक लॉगिन अनुरोध रद्द हो गया</string>
 
-    <string name="twitter_login_failed">Twitter Login Failed</string>
+    <string name="twitter_login_failed">ट्विटर लॉगिन विफल रहा</string>
 
-    <string name="missing_app_key">Missing App Key</string>
-    <string name="initialization_error">Initialization Error</string>
-    <string name="initialization_error_message">Pre  startup initialization checkup failed, App will close</string>
-    <string name="ok">Okay !</string>
+    <string name="missing_app_key">ऐप की कुंजी गुम है</string>
+    <string name="initialization_error">प्रारंभिक त्रुटि</string>
+    <string name="initialization_error_message">प्री-स्टार्टअप प्रारंभिक जांच विफल रही, ऐप बंद हो जाएगा</string>
+    <string name="ok">ठीक है!</string>
 
-    <string name="reset_password">Reset Password</string>
+    <string name="reset_password">पासवर्ड रीसेट</string>
 
-    <string name="signup">Signup</string>
+    <string name="signup">साइन अप</string>
 
-    <string name="critical_error_message">A critical error occurred, please relogin. (Code: %1$s)</string>
+    <string name="critical_error_message">एक गंभीर त्रुटि आई है, कृपया पुनः लॉगिन करें। (Code: %1$s)</string>
 
-    <string name="failed_to_generate_security_keys">Failed to create security keys</string>
+    <string name="failed_to_generate_security_keys">सुरक्षा कुंजी बनाने में विफल रहा</string>
 
-    <string name="auth_required">Authentication required</string>
+    <string name="auth_required">प्रमाणीकरण आवश्यक है</string>
 
-    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_open">ड्रावर ओपन</string>
 
-    <string name="drawer_close">Drawer Close</string>
+    <string name="drawer_close">ड्रावर क्लोज</string>
 
-    <string name="setting">Setting</string>
+    <string name="setting">सेटिंग</string>
 
-    <string name="support">Support</string>
+    <string name="support">सहारा</string>
 
-    <string name="logout">Logout</string>
+    <string name="logout">लोग आउट</string>
 
-    <string name="about">About</string>
+    <string name="about">के बारे में</string>
 
-    <string name="wallet">Wallet</string>
+    <string name="wallet">बटुआ</string>
 
-    <string name="exchange">Exchange</string>
-    <string name="w">w</string>
-    <string name="e">e</string>
-    <string name="current_balance">Current Balance</string>
+    <string name="exchange">एक्सचेंज</string>
+    <string name="w">व</string>
+    <string name="e">इ</string>
+    <string name="current_balance">वर्तमान शेष</string>
 
-    <string name="auth_not_found">Authentication not found</string>
+    <string name="auth_not_found">प्रमाणीकरण नहीं मिला</string>
 
-    <string name="send">Send</string>
-    <string name="receive">Receive</string>
+    <string name="send">भेजें</string>
+    <string name="receive">प्राप्त करें</string>
 
-    <string name="history">History</string>
-    <string name="network_not_available">Network or internet connection cannot be detected,
-        Please fix the issue and try again</string>
+    <string name="history">वृत्तांत</string>
+    <string name="network_not_available">नेटवर्क या इंटरनेट कनेक्शन का पता नहीं लगाया जा पा रहा है,
+         कृपया समस्या को ठीक करें और पुनः प्रयास करें</string>
 
-    <string name="updating">Updating..</string>
+    <string name="updating">अद्यतन कर रहा है..</string>
 
-    <string name="more">More</string>
+    <string name="more">अधिक</string>
 </resources>

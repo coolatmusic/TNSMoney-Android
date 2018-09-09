@@ -70,13 +70,13 @@
     <string name="rsa_data_encryption_failed">Initial Data Encryption Failed</string>
     <string name="rsa_data_decryption_failed">Initial Data Decryption Failed</string>
 
-    <string name="data_encryption_error">Data dncryption failed 2, reinstall app if error persists</string>
-    <string name="data_decryption_error">Data decryption failed 2, reinstall app if error persists</string>
+    <string name="data_encryption_error">Data encryption failed 2, reinstall the app if the error persists</string>
+    <string name="data_decryption_error">Data decryption failed 2, reinstall the app if the error persists</string>
 
-    <string name="security_logout_message">Secure data processing failed, as a security measure you have been logged out, please relogin</string>
+    <string name="security_logout_message">Secure data processing failed, as a security measure you have been logged out, please re-login</string>
 
-    <string name="encrypted_data_part_extract_error">Failed to extract encrypted data parts, reinstall app if error persists</string>
-    <string name="data_decryption_failed_error">Data decryption failed, please reinstall app if error persists</string>
+    <string name="encrypted_data_part_extract_error">Failed to extract encrypted data parts, reinstall the app if the error persists</string>
+    <string name="data_decryption_failed_error">Data decryption failed, please reinstall the app if the error persists</string>
 
     <string name="facebook_login_failed">Facebook Login Failed</string>
 
@@ -86,14 +86,14 @@
 
     <string name="missing_app_key">Missing App Key</string>
     <string name="initialization_error">Initialization Error</string>
-    <string name="initialization_error_message">Pre  startup initialization checkup failed, App will close</string>
+    <string name="initialization_error_message">Pre-startup initialization checkup failed, App will close</string>
     <string name="ok">Okay !</string>
 
     <string name="reset_password">Reset Password</string>
 
     <string name="signup">Signup</string>
 
-    <string name="critical_error_message">A critical error occurred, please relogin. (Code: %1$s)</string>
+    <string name="critical_error_message">A critical error occurred, please re-login. (Code: %1$s)</string>
 
     <string name="failed_to_generate_security_keys">Failed to create security keys</string>
 
